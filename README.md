@@ -12,7 +12,6 @@ Este es un proyecto creado con React y gestionado con Yarn. Proporciona una estr
 
    ```bash
    git clone https://github.com/Odig0/technical-test
-   cd tu-repositorio
 
 2. yarn install
 
