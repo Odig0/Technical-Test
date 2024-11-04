@@ -1,8 +1,19 @@
-# React + Vite
+# Proyecto React con Yarn
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto creado con React y gestionado con Yarn. Proporciona una estructura básica para construir aplicaciones de React de forma eficiente.
 
-Currently, two official plugins are available:
+## Requisitos previos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Node.js y Yarn instalados en tu sistema.
+
+## Instalación
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/Odig0/technical-test
+   cd tu-repositorio
+
+2. yarn install
+
+3. yarn dev 
